@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-class-06",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c92514ca-610d-44d2-bb2b-f15c96942a4b",
+		"tenantId": "acaff28a-979f-4859-862b-14a937db4d62"
+	}
+}
